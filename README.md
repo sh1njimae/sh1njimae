@@ -2,6 +2,9 @@
 
 👋 Hi!!
 
+Java, Spring boot, Hibernate, Rest API, JUnit, JWT, API Key, Maven, Yaml, Json, Log4j , VM, Docker, docker compose, Kong, GIT, Jenkin, Glassfish, mirth, mysql, mariadb, mssql, hql, cisco, fortigate firewall, microsoft server, 
+group policy management, active directory, linux, tandberg backup
+
 <!---
 sh1njimae/sh1njimae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
